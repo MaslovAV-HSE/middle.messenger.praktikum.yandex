@@ -26,7 +26,7 @@ npm run build
 ```
 Запуск превью:
 ```
-npm run build
+npm run preview
 ```
 # Технологии
 * HTML

@@ -1,8 +1,10 @@
-<div class="chat-page">
-  {{#> ChatList className="chat-page__list" }}
+<div class="main">
+  <div class="chat-page">
+    {{#> ChatList className="chat-page__list" }}
     {{#each (chat-page-list)}}
-      {{> ChatItem }}
+    {{> ChatItem }}
     {{/each}}
-  {{/ ChatList }}
-  {{> Link page="LoginPage" text="Назад к логину"}}
+    {{/ ChatList }}
+    {{> Link page="LoginPage" text="Назад к логину"}}
+  </div>
 </div>

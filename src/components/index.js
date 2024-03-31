@@ -10,6 +10,3 @@ export { Avatar } from './avatar';
 export { ProfileField } from './profile-field';
 export { ButtonBack } from './button-back';
 export { ImageUpload } from './imageupload';
-// export { Loader } from './loader';
-// export { Header } from './header';
-// export { Footer } from './footer';
