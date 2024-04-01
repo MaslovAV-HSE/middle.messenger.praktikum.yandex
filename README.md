@@ -1,6 +1,6 @@
 # Ссылки
 * <a href="https://www.figma.com/file/jF5fFFzgGOxQeB4CmKWTiE/Chat_external_link?type=design&node-id=0-1&mode=design&t=gL51cQDiIGJi0I7i-0" target="_blank">Figma</a><br>
-* <a href="https://app.netlify.com/sites/netlifiexample/deploys/66071ce3a674f80008e64d4d" target="_blank">Netlify</a>
+* <a href="https://yandex-practicum-chat.netlify.app/login" target="_blank">Netlify</a>
 
 # Описание
 Самостоятельная практическая работа по созданию веб приложения.
